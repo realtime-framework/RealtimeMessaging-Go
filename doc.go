@@ -2,7 +2,11 @@
 //
 // The ortc package implementes the Go lang version of Realtime Messaging
 //
-// Below are examples of use of the ortc package.
+// Installation:
+//
+//	go get github.com/realtime-framework/RealtimeMessaging-Go
+//
+// Below are examples of use of the ortc package:
 //
 // - Create a new instance of ortc client:
 //
