@@ -2,8 +2,8 @@ package ortc
 
 import (
 	"fmt"
+	"github.com/realtime-framework/RealtimeMessaging-Go/authentication"
 	"net/url"
-	"ortc/authentication"
 )
 
 //SaveAuthentication saves the authentication token channels permissions in the ORTC server.
