@@ -1,6 +1,9 @@
-// Copyright 2015 Realtime Framework.  All rights reserved.
+// Copyright 2015 Realtime Framework. 
 //
-// The ortc package implementes the Go lang version of Realtime Messaging
+// The ortc package implements the Go lang version of the Realtime Messaging protocol,
+//
+// If your application has data that needs to be updated in the user’s interface as it changes (e.g. real-time stock quotes or ever changing social news feed) 
+// Realtime Messaging is the reliable, easy, unbelievably fast, “works everywhere” solution.
 //
 // Installation:
 //
@@ -125,4 +128,7 @@
 // - Unsubscribe from a channel:
 //
 // client.Unsubscribe("my_channel")
+//
+// More documentation about the Realtime Messaging service (ORTC) can be found at: 
+// http://messaging-public.realtime.co/documentation/starting-guide/overview.html
 package ortc
